@@ -1,0 +1,7 @@
+Python 
+Torch
+Transformers 
+bitsandbytes
+accelerate
+Requests
+Pillow
